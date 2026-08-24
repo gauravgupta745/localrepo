@@ -1,4 +1,4 @@
 resource "azurerm_resource_group" "rg" {
-  name     = "rg-sonu"
+  name     = "rg-sonudada"
   location = "West Europe"
 }
